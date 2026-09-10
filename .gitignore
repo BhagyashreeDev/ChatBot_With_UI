@@ -1,0 +1,21 @@
+# Environment variables (API Keys)
+.env
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local SQLite Database files
+chatbot.db
+chatbot.db-shm
+chatbot.db-wal
+
+# IDE / OS settings
+.vscode/
+.idea/
+.DS_Store
